@@ -22,7 +22,7 @@ Main Advantages of using Nuxt.js
 
 Simple dad joke application using a 3rd party API 
 
-Thing I worked on this project:
+Things I worked on this project:
 
 - Page Routing using 
 - Vue Components
