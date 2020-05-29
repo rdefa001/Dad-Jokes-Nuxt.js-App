@@ -24,7 +24,7 @@ Simple dad joke application using a 3rd party API
 
 Things I worked on this project:
 
-- Page Routing using 
+- Page Routing 
 - Vue Components
 - Data Fetching 
 - Head Elements 
